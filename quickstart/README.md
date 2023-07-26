@@ -31,4 +31,4 @@
 ![Set Extended profile as default](img/ecosonar-quickstart-11.png)
 20. You can now start adding your Projects from the **Projects** button in the top menu
 
-** Good luck! And enjoy your __CLEAN & GREEN__ code!**
+**Good luck! And enjoy your CLEAN & GREEN code!**
